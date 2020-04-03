@@ -1,0 +1,5699 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmissedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "missedcalls_reason",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtakencalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "takencalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddialedcalls",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_date",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_who",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "dialedcalls_duration",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

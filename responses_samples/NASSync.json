@@ -1,0 +1,133 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "factorydefault",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addnassync",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_job_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_job_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_folder1",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_folder2",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_select_when",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_mon",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_tue",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_wed",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_thu",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_fri",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_sat",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "sync_action_sun",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_action_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_status",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_last_status",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_timestamp",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "sync_reason",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "NewDirstatus",
+    "varvalue": "***"
+  }
+]

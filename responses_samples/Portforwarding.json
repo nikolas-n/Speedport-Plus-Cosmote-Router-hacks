@@ -1,0 +1,447 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "dynrule_addmdevice",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connect",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtcpredirect",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "tcpredirect_id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_public_from",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_public_to",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_private_dest",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "tcp_redirect_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "tcp_device",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addtcpredirect",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "tcpredirect_id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_public_from",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_public_to",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "tcp_private_dest",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "tcp_redirect_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "tcp_device",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

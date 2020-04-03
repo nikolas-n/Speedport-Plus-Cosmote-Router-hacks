@@ -1,0 +1,137 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "other_ip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "other_dns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_MTU",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "always_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "idle_time",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "onlinestatus",
+    "varvalue": "***"
+  }
+]

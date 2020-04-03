@@ -1,0 +1,112 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_dyndns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_nas",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_abuse",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps_pbc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_external_modem",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_direction",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_version",
+    "varvalue": "***"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_mac_24g",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_mac_5g",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_mssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_current_channel",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_current_channel",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_en_ssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_guest_only",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_guest_5ghz_only",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_en_5ghz_ssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_ssid_band_steering",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_ssid_band_steering_global",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_ssid_band_steering",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_ssid_iso",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_ssid_iso",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_max_clients",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_max_clients",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_up_limit",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_down_limit",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_up_limit",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_down_limit",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_ip1",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_ip2",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_ip3",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_ip4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_port",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpax_key",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_ip1",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_ip2",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_ip3",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_ip4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_port",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_wpax_key",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_ssid_enabled",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_ssid_5ghz_enabled",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_ssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "fon_ssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_visible",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_ssid",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_visible",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_enc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_enc_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_enc_mth",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_enc_5ghz_mth",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpa_key",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpa_key_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpa_key_changed",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wpa_key_5ghz_changed",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_wep_keylength",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wep_key",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_wep_5ghz_key",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_timerule",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_dfrom",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_dto",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_mo_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_mo_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_so_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_sa_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_fr_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_do_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_mi_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_di_to",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_so_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_sa_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_fr_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_do_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_mi_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_time_di_from",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_power",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_channel",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_mode",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_coex",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_channel_bandwidth",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_channel_bandwidth",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_mode",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlan_5ghz_channel",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_dyndns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_nas",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_abuse",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps_pbc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_external_modem",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_direction",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_version",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "onlinestatus",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "always_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "dualstack",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "days_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "time_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "internetFinished",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlanFinished",
+    "varvalue": "***"
+  }
+]

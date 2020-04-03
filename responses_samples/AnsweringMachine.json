@@ -1,0 +1,39 @@
+{
+  "0": {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  "1": {
+    "vartype": "value",
+    "varid": "factorydefault",
+    "varvalue": "***"
+  },
+  "2": {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  "3": {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  "4": {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  "5": {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  "6": {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  "json": "AnsweringMachine",
+  "method": "GET"
+}

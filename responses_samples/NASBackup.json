@@ -1,0 +1,158 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "factorydefault",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addnasbackup",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_job_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_job_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_folder1",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_folder2",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_select_when",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_mon",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_tue",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_wed",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_thu",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_fri",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_sat",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_action_sun",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_action_time",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "backup_versioning",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_status",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_last_status",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_timestamp",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "backup_reason",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_backup_entry_id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_backup_entry_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_device_id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_device_name",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

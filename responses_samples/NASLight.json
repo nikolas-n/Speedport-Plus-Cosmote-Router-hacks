@@ -1,0 +1,263 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_dyndns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_nas",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_abuse",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps_pbc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_external_modem",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_direction",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_version",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "smb_workgroup",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "guest_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "guest_folder",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "guestfolder_nur_lesen",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addnasmediareplay",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "mediareplay_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_folder",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_status",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "value",
+    "varid": "email_smtp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_enc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_port",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_other_username",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_password",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_sendto_address",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_95",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_100",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_not_functional",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_login_failed",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "send_testemail_success",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_other_username",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_password",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_sendto_address",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_95",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_100",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_not_functional",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_login_failed",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "send_testemail_success",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "NewDirstatus",
+    "varvalue": "***"
+  }
+]

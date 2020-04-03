@@ -1,0 +1,240 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_dyndns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_nas",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_abuse",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps_pbc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_external_modem",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_direction",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_version",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "onlinestatus",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "always_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "dualstack",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "days_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "time_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "ea_phone_selection",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "areacode",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addipphoneprovider",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "isp_selection",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "t_mail",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "t_password",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "other_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "other_user",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "other_pass",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "other_registrar",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "other_port",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "template",
+        "varid": "addipnumber",
+    "varvalue": "***"
+          {
+            "vartype": "value",
+            "varid": "ip_number",
+    "varvalue": "***"
+          },
+          {
+            "vartype": "value",
+            "varid": "ipphonenumber_id",
+    "varvalue": "***"
+          },
+          {
+            "vartype": "value",
+            "varid": "number_status",
+    "varvalue": "***"
+          }
+        ]
+      },
+      {
+        "vartype": "template",
+        "varid": "addipnumber",
+    "varvalue": "***"
+          {
+            "vartype": "value",
+            "varid": "ip_number",
+    "varvalue": "***"
+          },
+          {
+            "vartype": "value",
+            "varid": "ipphonenumber_id",
+    "varvalue": "***"
+          },
+          {
+            "vartype": "value",
+            "varid": "number_status",
+    "varvalue": "***"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "router_firewall_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "internet_timerule_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "internet_extrule_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "internet_ports_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "internet_porttrigger_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "abuse_detect_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "wlan_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "wlan5_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "wlan_mac_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "wlan_time_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "nas_ftp_active",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "hsfon_status",
+    "varvalue": "***"
+  }
+]

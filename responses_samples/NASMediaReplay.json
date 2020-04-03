@@ -1,0 +1,78 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addnasmediareplay",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "mediareplay_active",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_folder",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mediareplay_status",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

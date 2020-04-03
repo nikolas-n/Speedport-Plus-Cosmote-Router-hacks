@@ -1,0 +1,347 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_dyndns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_nas",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_abuse",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_wps_pbc",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_external_modem",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftp",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "allow_ftps",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_direction",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "rip_version",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "internetFinished",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_telephone",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "wlanFinished",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "onlinestatus",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "always_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "dualstack",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "days_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "time_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "isp_selection",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_callident",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_number",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_mbnr0",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_mbnr1",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_mbnr2",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_mbnr3",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "t_password",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_user",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_password",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "other_ip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "other_dns",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_MTU",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_ip_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_sdns_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_hb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_mhb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_mlb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "other_dns_lb",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "always_online",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "ip_mode",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "idle_time",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "public_ip_v4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "gateway_ip_v4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "dns_v4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "sec_dns_v4",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "public_ip_v6",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "gateway_ip_v6",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "transmitted_ip_v6_pool_for_lan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "used_ip_v6_lan",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "dns_v6",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "sec_dns_v6",
+    "varvalue": "***"
+  }
+]

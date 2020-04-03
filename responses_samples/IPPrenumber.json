@@ -1,0 +1,62 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "factorydefault",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "areacode",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "ea_phone_selection",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "phone_detect_type",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "phone_manual_type",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "areacode",
+    "varvalue": "***"
+  }
+]

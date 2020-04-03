@@ -1,0 +1,119 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addphonenumber",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "reject_on_busy",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "line",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "clir",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "phone_auto_number",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "reject_on_busy",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "line",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "clir",
+    "varvalue": "***"
+      }
+    ]
+  }
+]

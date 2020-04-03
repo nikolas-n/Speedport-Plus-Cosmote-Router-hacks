@@ -1,0 +1,87 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_other_username",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_password",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "email_sendto_address",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_95",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_full_100",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_not_functional",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "email_nas_login_failed",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "option",
+    "varid": "send_testemail_success",
+    "varvalue": "***"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "rebooting",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "value",
+    "varid": "save_fails",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "status",
+    "varid": "status",
+    "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addphonenumber",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "sid",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "reject_on_busy",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "line",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "clir",
+    "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "phone_plugs",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "plug_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_use_out_of_order_signaling",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_send_number",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_dial_zero",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_outgoing",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_sbox",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "compound",
+        "varid": "sid",
+    "varvalue": "***"
+        "compounds": [
+          {
+            "vartype": "option",
+            "varid": "ring_incoming",
+    "varvalue": "***"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "phone_plugs",
+    "varvalue": "***"
+      {
+        "vartype": "value",
+        "varid": "id",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "plug_name",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_use_out_of_order_signaling",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_send_number",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_dial_zero",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_outgoing",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_type",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "plug_sbox",
+    "varvalue": "***"
+      },
+      {
+        "vartype": "compound",
+        "varid": "sid",
+    "varvalue": "***"
+        "compounds": [
+          {
+            "vartype": "option",
+            "varid": "ring_incoming",
+    "varvalue": "***"
+          }
+        ]
+      }
+    ]
+  }
+]
