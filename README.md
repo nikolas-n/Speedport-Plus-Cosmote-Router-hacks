@@ -52,6 +52,24 @@ curl -H 'Accept-Language: en' "http://192.168.1.1/html/login/index.html"
 
 And then you can access all endpoints with the "broken" requests provided earlier.
 
+## Responses
+
+All responses are valid JSON files that begin with the following:
+
+```
+{"vartype":"value","varid":"device_name","varvalue":"Speedport Plus"}
+{"vartype":"value","varid":"rebooting","varvalue":"0"}
+{"vartype":"value","varid":"router_state","varvalue":"OK"}
+{"vartype":"value","varid":"provis_inet","varvalue":"xx3"}
+{"vartype":"value","varid":"provis_voip","varvalue":"xx3"}
+{"vartype":"value","varid":"save_fails","varvalue":"0"}
+{"vartype":"page_title","varid":"title","varvalue":"Speedport Plus Configuration Program"}
+{"vartype":"status","varid":"loginstate","varvalue":"1"}
+{"vartype":"status","varid":"status","varvalue":"ok"}
+```
+
+If an endpoint is valid but not activated, i.e. does not return the relevant data, then it will at least return that JSON. For example, PhoneDialedCalls.json, PhoneMissedCalls.json and PhoneTakenCalls.json are examples of such responses.
+
 ## List of the available endpoints
 The Speedport Plus router has the following endpoints.
 
@@ -61,9 +79,9 @@ The Speedport Plus router has the following endpoints.
  - Assistant.json
  - AuswAss.json
  - Connect.json
- - DECT.json
- - DECTStation.json
- - DiskDirectoryEntry.json
+ - DECT.json (empty)
+ - DECTStation.json (empty)
+ - DiskDirectoryEntry.json (empty)
  - DynDNS.json
  - EAStatus.json
  - ExtendedRules.json
@@ -72,8 +90,9 @@ The Speedport Plus router has the following endpoints.
  - INetIP.json
  - InternetConnection.json
  - IPPhoneHandler.json
- - IPPhone.json
- - IPPhoneNumbers.json
+    - Here you will find info about your land line. Among that info you can find the password that is used to authenticate your user to the VoIP cosmote server. Below you can check how you can use your landline from any other client!
+ - IPPhone.json (not activated)
+ - IPPhoneNumbers.json (not activated)
  - IPPrenumber.json
  - ISDNPhonePlugs.json
  - LAN.json
@@ -91,28 +110,44 @@ The Speedport Plus router has the following endpoints.
  - NASUser.json
  - NASWorkgroup.json
  - NewDirectoryEntry.json
- - OtherDevice.json
+ - OtherDevice.json (not activated)
  - Overview.json
  - PhoneBook.json
  - PhoneCalls.json
- - PhoneDialedCalls.json
+    - Returns all data regarding calls. Dialed, Taken (i.e. received) or Missed for up to (at least) three months.
+ - PhoneDialedCalls.json (not activated)
  - Phone.json
  - PhoneLineset.json
- - PhoneMissedCalls.json
+ - PhoneMissedCalls.json (not activated)
  - PhoneNumberAssignment.json
- - PhoneNumbers.json
+ - PhoneNumbers.json (not activated)
  - PhonePlugs.json
  - PhoneSettings.json
- - PhoneTakenCalls.json
+ - PhoneTakenCalls.json (not activated)
  - PhoneWebnWalk.json
  - Portforwarding.json
  - Reboot.json
- - Router.json
+ - Router.json (not activated)
  - SecureStatus.json
  - Status.json
  - SystemMessages.json
  - temp.json
  - TimeRules.json
- - WebnWalk.json
+ - WebnWalk.json (empty)
  - WLANAccess.json
  - WLANBasic.json
+
+# Receive/Make calls from anywhere
+
+The info needed to do so are the following:
+
+```
+User name: +30XXXXXXXXXX
+Password: this is the password you found in IPPhoneHandler
+Domain/Registrar: ims.otenet.gr
+Authentication Name: +30XXXXXXXXXX@ims.otenet.gr
+```
+
+You can enter these details in any VoIP client, e.g. CsipSimple in Android, and you can have your landline anywhere!
+
+The only limitation is that you cannot register from multiple clients. If you register from another client, then you will receive/make calls to that client. If you deregister from your other client, you'll have to make sure that SpeedPort is re-registered again. You can do that by disabling and enabling the tickbox **Enable** on the Tel.Numbers page of the administration webpage (https://router.ip/html/content/phone/VoIP_index.html).
