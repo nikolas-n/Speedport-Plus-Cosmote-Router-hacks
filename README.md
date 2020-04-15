@@ -8,7 +8,7 @@ You can find samples of all the endpoints found until now in the `responses_samp
 
 # Endpoints
 
-The endpoints all live under the **data** path, i.e. http://router.ip/data/*.json. For instance, if the router is on 192.168.1.1 (default one), then the login endpoint will be: `http://192.168.1.1/data/Login.json` (the capital L on Login is needed, as any other capital letter in all the endpoints).
+The endpoints all live under the **data** path, i.e. http://speedport.ip/data/*.json. For instance, if the router is on 192.168.1.1 (default one), then the login endpoint will be: `http://192.168.1.1/data/Login.json` (the capital L on Login is needed, as any other capital letter in all the endpoints).
 
 ## HTTP Requests to the router
 
@@ -150,4 +150,4 @@ Authentication Name: +30XXXXXXXXXX@ims.otenet.gr
 
 You can enter these details in any VoIP client, e.g. CsipSimple in Android, and you can have your landline anywhere!
 
-The only limitation is that you cannot be registered simultaneously from multiple clients. If you register from another client, then you will receive/make calls to that client. If you deregister from your other client, you'll have to make sure that SpeedPort is re-registered again. You can do that by disabling and enabling the tickbox **Enable** on the Tel.Numbers page of the administration webpage (https://router.ip/html/content/phone/VoIP_index.html).
+The only limitation is that you cannot be registered simultaneously from multiple clients. If you register from another client, then you will receive/make calls to that client. If you deregister from your other client, you'll have to make sure that SpeedPort is re-registered again. You can do that by disabling and enabling the tickbox **Enable** on the Tel.Numbers page of the administration webpage (https://speedport.ip/html/content/phone/VoIP_index.html).
