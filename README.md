@@ -71,7 +71,7 @@ All responses are valid JSON files that begin with the following:
 If an endpoint is valid but not activated, i.e. does not return the relevant data, then it will at least return that JSON. For example, PhoneDialedCalls.json, PhoneMissedCalls.json and PhoneTakenCalls.json are examples of such responses.
 
 ## List of the available endpoints
-The Speedport Plus router has the following endpoints.
+The Speedport Plus router has the following endpoints (you can also find them in the `endpoints_list.txt` file):
 
  - Abuseadv.json
  - Abuse.json
@@ -81,7 +81,6 @@ The Speedport Plus router has the following endpoints.
  - Connect.json
  - DECT.json (empty)
  - DECTStation.json (empty)
- - DiskDirectoryEntry.json (empty)
  - DynDNS.json
  - EAStatus.json
  - ExtendedRules.json
@@ -151,3 +150,11 @@ Authentication Name: +30XXXXXXXXXX@ims.otenet.gr
 You can enter these details in any VoIP client, e.g. CsipSimple in Android, and you can have your landline anywhere!
 
 The only limitation is that you cannot be registered simultaneously from multiple clients. If you register from another client, then you will receive/make calls to that client. If you deregister from your other client, you'll have to make sure that SpeedPort is re-registered again. You can do that by disabling and enabling the tickbox **Enable** on the Tel.Numbers page of the administration webpage (https://speedport.ip/html/content/phone/VoIP_index.html).
+
+# Getting your data
+
+You can get all the current data of your router with getData.py (python 3). Create the folder my_router_responses and then run the file with:
+
+```
+python3 getData.py
+```
