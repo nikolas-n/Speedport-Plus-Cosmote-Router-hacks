@@ -153,7 +153,7 @@ The only limitation is that you cannot be registered simultaneously from multipl
 
 # Getting your data
 
-You can get all the current data of your router with getData.py (python 3). Create the folder my_router_responses and then run the file with:
+You can get all the current data of your router with getData.py (python 3). Create the folder `my_router_responses`, install the requests python3 package with `pip3 install requests` and then run the file with:
 
 ```
 python3 getData.py
