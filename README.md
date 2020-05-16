@@ -36,7 +36,7 @@ curl -H "Cookie: session_id=2C43334D07267CAF5F9334596916E616" -H 'Accept-Languag
 
 ### The bug
 
-**UPDATE**: It has been fixed with the latest update of the firmware (09022001.00.030_OTE5)
+**UPDATE**: It has been fixed with the latest update of the firmware (09022001.00.030_OTE5).
 
 If your router hasn't (automatically) been updated yet, you don't need to login and get a cookie. You can just omit that part and just send:
 
@@ -138,7 +138,12 @@ The Speedport Plus router has the following endpoints (you can also find them in
  - WLANAccess.json
  - WLANBasic.json
 
+
 # Receive/Make calls from anywhere
+
+**UPDATE**: The latest update of Cosmote's firmware makes the IPPhoneHandler.json return an empty string, so this info is no longer available.
+
+## Applicable for firmware versions older than 09022001.00.030_OTE5
 
 The info needed to do so are the following:
 
