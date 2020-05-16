@@ -91,7 +91,7 @@ The Speedport Plus router has the following endpoints (you can also find them in
  - INetIP.json
  - InternetConnection.json
  - IPPhoneHandler.json
-    - Here you will find info about your land line. Among that info you can find the password that is used to authenticate your user to the VoIP cosmote server. Below you can check how you can use your landline from any other client!
+    - **Applicable for versions older than 09022001.00.030_OTE5:** Here you will find info about your land line. Among that info you can find the password that is used to authenticate your user to the VoIP cosmote server. Below you can check how you can use your landline from any other client!
  - IPPhone.json (not activated)
  - IPPhoneNumbers.json (not activated)
  - IPPrenumber.json
