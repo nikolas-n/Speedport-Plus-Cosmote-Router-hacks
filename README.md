@@ -22,10 +22,10 @@ When not logged in, that will return data found on the `html/login/status.html` 
 
 ## Logging in
 
-You don't need to login because of a bug of the router's software. But if you'd like to here's how.
+If your firmware version is earlier than 09022001.00.030_OTE5, then you don't need to login because of a bug of the router's software. If your firmware is 09022001.00.030_OTE5 then you have to login with the followin command:
 
 ```
-curl -H 'Accept-Language: en' "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=*****" -d "password=*****"
+curl -c - -H 'Accept-Language: en' "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=*****" -d "password=*****"
 ```
 
 After you have logged in, then you will have to use the cookie you got for the following requests. For instance, to have an overview of what's going on in your router you can hit the Overview endpoint like this:
@@ -36,7 +36,9 @@ curl -H "Cookie: session_id=2C43334D07267CAF5F9334596916E616" -H 'Accept-Languag
 
 ### The bug
 
-But actually, you don't need to login and get a cookie. You can just omit that part and just send:
+**UPDATE**: It has been fixed with the latest update of the firmware (09022001.00.030_OTE5)
+
+If your router hasn't (automatically) been updated yet, you don't need to login and get a cookie. You can just omit that part and just send:
 
 ```
 curl -H "Cookie: session_id=" -H 'Accept-Language: en' "http://192.168.1.1/data/Overview.json"
