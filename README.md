@@ -149,7 +149,7 @@ The info needed to do so are the following:
 
 ```
 User name: +30XXXXXXXXXX
-Password: this is the password you found in IPPhoneHandler
+Password: this is the password you found in IPPhoneHandler as  t_password
 Domain/Registrar: ims.otenet.gr
 Authentication Name: +30XXXXXXXXXX@ims.otenet.gr
 ```
