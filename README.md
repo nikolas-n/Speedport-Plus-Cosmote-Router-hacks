@@ -168,4 +168,4 @@ python3 getData.py
 
 ### Flashing the older Firmware
 Clone or download this repository and then open your router at http://speedport.ip/ , login with your password then open http://speedport.ip/html/content/config/check_for_updates.html and click on the option choose file, navigate to your file and click install. Then your router will reboot.
-When you're done with downloading you can change back to the latest version by doing the same steps using the latest firmware file you can download from https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/09022001.00.030_OTE5.img(latest as of 8/7/20) VOIP password does not change this way since they realy had no idea you did that.
+When you're done with downloading you can change back to the latest version by doing the same steps using the latest firmware file you can download from https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/09022001.00.030_OTE5.img (latest as of 8/7/20) VOIP password does not change this way since they realy had no idea you did that.
