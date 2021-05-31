@@ -35,6 +35,7 @@ then
 else
     echo -e "Calls missed\n"
     echo -e "$LATEST_MISSED_CALLS"
-
+    echo "$MISSED_CALLS" > missed_calls.csv
+    
     # You can always send the missed calls to a Telegram bot :-)
 fi
