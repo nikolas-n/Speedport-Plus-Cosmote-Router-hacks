@@ -1,6 +1,12 @@
 #!/bin/bash
 #
-# Description: This is a simple script that does the following: Gets the external IP from the router,
+# Description: This is a simple script that does the following:
+#              1. Gets the external IP from the router
+#              2. Compares it with the IP that is mapped to the domain
+#              3. If the IPs differ, then
+#                   a. There has been a change of your IP
+#                   b. The DNS server is updated with the new IP
+#              4. If the IPs do not differ, then no action is taken
 #
 # Requirements (on debian): curl, grep, jq, dnsutils
 #              
@@ -40,3 +46,4 @@ else
 	curl -s -X GET "https://api.telegram.org/my_token/sendMessage" -d "chat_id=*******" -d "text=your IP changed to $ROUTERIP" > /dev/null
 fi
 fi
+

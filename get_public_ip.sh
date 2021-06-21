@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Description: Get your public IP without visiting any page on the web
+# Description: Get your public IP from your router without visiting any page on the web.
 #
 # Requirements: jq (or any other json parser)
 #
@@ -10,3 +10,4 @@ LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "userna
 
 # Retrieve your IP
 curl -s "http://192.168.1.1/data/INetIP.json" -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | jq -j '.[] | select((.varid == "public_ip_v4")) | .varvalue'
+

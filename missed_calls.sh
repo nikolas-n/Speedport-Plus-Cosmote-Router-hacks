@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-# Description: Check missed calls
+# Description: Check missed calls. This script can run as a cronjob every one hour or so, e.g.:
+#              0 * * * * /path/to/missed_calls.sh
 #
 # Requirements: jq
 #
@@ -36,6 +37,6 @@ else
     echo -e "Calls missed\n"
     echo -e "$LATEST_MISSED_CALLS"
     echo "$MISSED_CALLS" > missed_calls.csv
-    
     # You can always send the missed calls to a Telegram bot :-)
 fi
+
