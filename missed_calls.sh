@@ -6,8 +6,10 @@
 # Requirements: jq
 #
 
+source .credentials
+
 # Log into your router
-LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=******" -d "password=********" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
+LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
 
 # Retrieve missed calls
 MISSED_CALLS=$(curl -s "http://192.168.1.1/data/PhoneCalls.json" -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | jq -r '.[] | select(.varid == "addmissedcalls") | .varvalue | map(.varvalue) | join(",")' | cut -f2,3,4 -d "," | tr ',' '\t')
@@ -37,6 +39,8 @@ else
     echo -e "Calls missed\n"
     echo -e "$LATEST_MISSED_CALLS"
     echo "$MISSED_CALLS" > missed_calls.csv
-    # You can always send the missed calls to a Telegram bot :-)
+    ## You can always send the missed calls to a Telegram bot with  
+    # curl -s -X GET "https://api.telegram.org/$TELEGRAM_BOTPATH/sendMessage" -d "chat_id=$TELEGRAM_CHATID" -d "text=Missed call(s): $LATEST_MISSED_CALLS" > /dev/null
+
 fi
 

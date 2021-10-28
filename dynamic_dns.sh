@@ -11,6 +11,8 @@
 # Requirements (on debian): curl, grep, jq, dnsutils
 #              
 
+source .credentials
+
 # The domain you want to update
 DOMAIN="example.com"
 
@@ -18,7 +20,7 @@ DOMAIN="example.com"
 curl -s -H 'Accept-Language: en' "http://192.168.1.1/html/login/index.html" > /dev/null
 
 # Log into your router
-LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=********" -d "password=*******" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
+LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
 
 # Get your external IP
 ROUTERIP=$(curl -s -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: en' "http://192.168.1.1/data/INetIP.json" | jq -j '.[] | select((.varid == "public_ip_v4")) | .varvalue')
@@ -43,7 +45,7 @@ else
 	# curl -s "http://mydomain.com:9000/webhook/IPchange?token=**************" -d "IP=$ROUTERIP" -d "domain=$DOMAIN"
 
 	# Use telegram (or any other tool) to notify you about the IP change
-	curl -s -X GET "https://api.telegram.org/my_token/sendMessage" -d "chat_id=*******" -d "text=your IP changed to $ROUTERIP" > /dev/null
+	curl -s -X GET "https://api.telegram.org/$TELEGRAM_BOTPATH/sendMessage" -d "chat_id=$TELEGRAM_CHATID" -d "text=your IP changed to $ROUTERIP" > /dev/null
 fi
 fi
 
