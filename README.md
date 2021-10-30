@@ -2,6 +2,15 @@
 
 Here you can find some interesting data that you can get from your home router. Whatever is here has been found through a combination of crawling the web and sending http requests on the router's administration page.
 
+# Scripts added so far
+
+* `device_connected.sh`: Check which devices are connected to and disconnected from your router and send notifications in either case.
+* `dynamic_dns.sh`: Create a dyndns service of your own (you'll need to have somewhere a DNS server that you can update)
+* `get_line_uptime.sh`: Check how many days you've been online with the same IP
+* `get_public_ip.sh`: Retrieve your public IP without visiting any website on the internet
+* `missed_calls.sh`: Get notifications on your missed calls. You can always access all the calls (missed, received, outgoing) on this URL (which is surprisingly hidden from the web-ui): http://192.168.1.1/html/content/phone/phone_call_list.html
+* `get_data.py`: Get the data from all of your endpoints (details at the bottom of this file)
+
 # Responses Samples
 
 You can find samples of all the endpoints found until now in the `responses_samples` folder. Values of the objects have been masked as they contain sensitive data :-)
