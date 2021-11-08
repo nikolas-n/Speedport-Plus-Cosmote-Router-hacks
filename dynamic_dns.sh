@@ -11,19 +11,19 @@
 # Requirements (on debian): curl, grep, jq, dnsutils
 #              
 
-source .credentials
+source config
 
 # The domain you want to update
 DOMAIN="example.com"
 
 # Log out anyone currently on your router
-curl -s -H 'Accept-Language: en' "http://192.168.1.1/html/login/index.html" > /dev/null
+curl -s -H 'Accept-Language: en' "http://$IP/html/login/index.html" > /dev/null
 
 # Log into your router
-LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
+LOGIN=$(curl -sc - "http://$IP/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
 
 # Get your external IP
-ROUTERIP=$(curl -s -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: en' "http://192.168.1.1/data/INetIP.json" | jq -j '.[] | select((.varid == "public_ip_v4")) | .varvalue')
+ROUTERIP=$(curl -s -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: en' "http://$IP/data/INetIP.json" | jq -j '.[] | select((.varid == "public_ip_v4")) | .varvalue')
 
 # Check the current assigned IP of your domain
 DOMAINIP=$(dig @8.8.8.8 "$DOMAIN" | grep "$DOMAIN" | cut -f5)

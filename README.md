@@ -10,6 +10,20 @@ Here you can find some interesting data that you can get from your home router. 
 * `get_public_ip.sh`: Retrieve your public IP without visiting any website on the internet
 * `missed_calls.sh`: Get notifications on your missed calls. You can always access all the calls (missed, received, outgoing) on this URL (which is surprisingly hidden from the web-ui): http://192.168.1.1/html/content/phone/phone_call_list.html
 * `get_data.py`: Get the data from all of your endpoints (details at the bottom of this file)
+##Confuguring Scripts
+
+You may configure above scripts using the `config` file. The settings are set using bash variables.
+
+###Required settings
+
+`IP` setting sets the routers ip in your network, by default it is `192.168.1.1`
+`USERNAME` setting sets the authentication username
+`PASSWORD` setting sets the authentication password
+
+###Optional settings
+
+'TELEGRAM_BOTPATH' setting sets the telegram bot token. If you don't have one, you can get one at https://telegram.me/botfather
+'TELEGRAM_CHAT_ID' setting sets the chat id of the chat to send the notifications to.
 
 # Responses Samples
 

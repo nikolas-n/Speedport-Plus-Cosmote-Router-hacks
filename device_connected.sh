@@ -7,13 +7,13 @@
 # Requirements: jq
 #
 
-source .credentials
+source config
 
 # Log into your router
-LOGIN=$(curl -sc - "http://192.168.1.1/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
+LOGIN=$(curl -sc - "http://$IP/data/Login.json" -d "showpw=0" -d "username=$USERNAME" -d "password=$PASSWORD" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | grep -oP "[0-Z]{32}")
 
 # Retrieve connected devices
-CONNECTED_DEVICES=$(curl -s "http://192.168.1.1/data/LAN.json" -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | jq -r '.[] | . as $parent | select(.varid == "addmdevice") | .varvalue[] | select(.varid=="mdevice_connected") | select(.varvalue == "1") | $parent | select(.varid == "addmdevice") | .varvalue | map(.varvalue) | join(";")' | cut -d ";" -f2,3,6,8 | sort -n -k4 -t ".")
+CONNECTED_DEVICES=$(curl -s "http://$IP/data/LAN.json" -H "Cookie: session_id=$LOGIN" -H 'Accept-Language: el,en-US;q=0.7,en;q=0.3' | jq -r '.[] | . as $parent | select(.varid == "addmdevice") | .varvalue[] | select(.varid=="mdevice_connected") | select(.varvalue == "1") | $parent | select(.varid == "addmdevice") | .varvalue | map(.varvalue) | join(";")' | cut -d ";" -f2,3,6,8 | sort -n -k4 -t ".")
 
 # Check if connected_devices.csv exists.
 # If it doesn't exist, store connected devices in it.
