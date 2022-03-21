@@ -9,7 +9,10 @@ Here you can find some interesting data that you can get from your home router. 
 * `get_line_uptime.sh`: Check how many days you've been online with the same IP
 * `get_public_ip.sh`: Retrieve your public IP without visiting any website on the internet
 * `missed_calls.sh`: Get notifications on your missed calls. You can always access all the calls (missed, received, outgoing) on this URL (which is surprisingly hidden from the web-ui): http://192.168.1.1/html/content/phone/phone_call_list.html
+* `reboot.sh`: Reboot your router.
 * `get_data.py`: Get the data from all of your endpoints (details at the bottom of this file)
+
+Since all responses of the router are in JSON format, most scripts use `jq` a very useful parser for the command line (available [here](https://github.com/stedolan/jq)).
 
 # Responses Samples
 
@@ -176,5 +179,12 @@ python3 getData.py
 ```
 
 ### Flashing the older Firmware
-Clone or download this repository and then open your router at http://speedport.ip/ , login with your password then open http://speedport.ip/html/content/config/check_for_updates.html and click on the option choose file, navigate to your file and click install. Then your router will reboot.
-When you're done with downloading you can change back to the latest version by doing the same steps using the latest firmware file you can download from https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/09022001.00.030_OTE5.img (latest as of 8/7/20) VOIP password does not change this way since they realy had no idea you did that.
+To flash your router with older firmware, you need to do the following:
+
+ 1. Make sure you have git lfs installed. This step is needed so that the repo is cloned along with the img file
+ 2. Clone this repo
+ 3. Go to http://192.168.1.1/html/content/config/check_for_updates.html
+ 4. Click Browse to choose the img file, navigate to your file and then click install
+ 5. Your router will reboot to effect the change
+
+When you're done with downloading, you can revert to the latest version by repeating the same steps using the latest firmware file you can download from [here](https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/09022001.00.030_OTE5.img) (latest as of 8/7/20). Your voIP password does not change this way since they really had no idea you did that.
