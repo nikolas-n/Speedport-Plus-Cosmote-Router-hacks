@@ -12,7 +12,7 @@ Here you can find some interesting data that you can get from your home router. 
 * `reboot.sh`: Reboot your router.
 * `get_data.py`: Get the data from all of your endpoints (details at the bottom of this file)
 
-Since all responses of the router are in JSON format, most scripts use `jq` a very useful parser for the command line (available [here](https://github.com/stedolan/jq)).
+Since all responses of the router are in JSON format, most scripts use `jq`, a very useful parser for the command line (available [here](https://github.com/stedolan/jq)).
 
 # Responses Samples
 
@@ -170,15 +170,7 @@ You can enter these details in any VoIP client, e.g. CsipSimple in Android, and 
 
 The only limitation is that you cannot be registered simultaneously from multiple clients. If you register from another client, then you will receive/make calls to that client. If you deregister from your other client, you'll have to make sure that SpeedPort is re-registered again. You can do that by disabling and enabling the tickbox **Enable** on the Tel.Numbers page of the administration webpage (https://speedport.ip/html/content/phone/VoIP_index.html).
 
-# Getting your data
-
-You can get all the current data of your router with getData.py (python 3). Create the folder `my_router_responses`, install the requests python3 package with `pip3 install requests` and then run the file with:
-
-```
-python3 getData.py
-```
-
-### Flashing the older Firmware
+# Flashing the older Firmware
 To flash your router with older firmware, you need to do the following:
 
  1. Make sure you have git lfs installed. This step is needed so that the repo is cloned along with the img file
@@ -188,3 +180,11 @@ To flash your router with older firmware, you need to do the following:
  5. Your router will reboot to effect the change
 
 When you're done with downloading, you can revert to the latest version by repeating the same steps using the latest firmware file you can download from [here](https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/09022001.00.030_OTE5.img) (latest as of 8/7/20). Your voIP password does not change this way since they really had no idea you did that.
+
+# Getting your data
+
+You can get all the current data of your router with getData.py (python 3). Create the folder `my_router_responses`, install the requests python3 package with `pip3 install requests` and then run the file with:
+
+```
+python3 getData.py
+```
