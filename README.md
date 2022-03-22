@@ -188,3 +188,17 @@ You can get all the current data of your router with getData.py (python 3). Crea
 ```
 python3 getData.py
 ```
+
+# Reverse engineering
+
+Playing around with the router, a possibly interesting information has come up. This is how you can check yourself:
+
+ 1. Go to Settings
+ 2. Click on Save Settings
+ 3. Click on Saving and then click on the Saving button
+ 4. A file of the following format will be downloaded (depneding on your version and when you made the export of the settings): `Speedport_Plus_09022001.00.035_OTE5_2022-03-22_003825.config`
+ 5. If you `cat` this you'll see a long hex
+ 6. Run `xxd -p -r Speedport_Plus_09022001.00.035_OTE5_2022-03-22_003825.config > speedport.data`. **NOTE**: `xxd` is a command line to make and reverse hex dumps. Here we're using (-r) reversing
+ 7. If you now run `file speedport.data` you'll get `Dyalog APL aplcore version 198.157`
+
+It seems that the REST API of the router is written in dyalog and the config is created using this function [here](https://dfns.dyalog.com/n_hexdump.htm). It would be interesting to see if this file can be decoded somehow. Leaving it here in case someone has any luck or any idea of how this could be achieved.
