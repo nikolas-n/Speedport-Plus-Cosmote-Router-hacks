@@ -202,3 +202,16 @@ Playing around with the router, a possibly interesting information has come up. 
  7. If you now run `file speedport.data` you'll get `Dyalog APL aplcore version 198.157`
 
 It seems that the REST API of the router is written in dyalog and the config is created using this function [here](https://dfns.dyalog.com/n_hexdump.htm). It would be interesting to see if this file can be decoded somehow. Leaving it here in case someone has any luck or any idea of how this could be achieved.
+
+# Other telecom providers using this modem
+
+Deutsche Telekom distributes this modem in many of its subsidiaries.
+
+* Crnogorski Telekom (Montenegro)
+* Hrvatski Telekom (Croatia)
+* HT Eronet (Bosnia and Herzegovina)
+* Magenta Telekom (Austria)
+* Magyar Telekom (Hungary)
+* Makedonski Telekom (North Macedonia)
+* Slovak Telekom (Slovakia)
+* T-Mobile (Czechia)
