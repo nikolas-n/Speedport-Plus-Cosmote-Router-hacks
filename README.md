@@ -8,6 +8,7 @@ Here you can find some interesting data that you can get from your home router. 
 * `dynamic_dns.sh`: Create a dyndns service of your own (you'll need to have somewhere a DNS server that you can update)
 * `get_line_uptime.sh`: Check how many days you've been online with the same IP
 * `get_public_ip.sh`: Retrieve your public IP without visiting any website on the internet
+* `check_if_behind_nat.sh`: Check if you are behind a CG-NAT 
 * `missed_calls.sh`: Get notifications on your missed calls. You can always access all the calls (missed, received, outgoing) on this URL (which is surprisingly hidden from the web-ui): http://192.168.1.1/html/content/phone/phone_call_list.html
 * `reboot.sh`: Reboot your router.
 * `get_data.py`: Get the data from all of your endpoints (details at the bottom of this file)
