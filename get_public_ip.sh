@@ -2,6 +2,8 @@
 #
 # Description: Get your public IP from your router without visiting any page on the web.
 #
+# Attention: This script works fine as long as you are not behind a CG-NAT. Check check_if_behind_nat.sh for more info.
+#
 # Requirements: jq (or any other json parser)
 #
 

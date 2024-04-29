@@ -43,5 +43,76 @@
     "vartype": "status",
     "varid": "status",
     "varvalue": "***"
+  },
+  {
+    "vartype": "template",
+    "varid": "addnasuser",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_user_name",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_user_password",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "nas_pers_folder",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "nas_folder_access",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "user_accessfoldername1",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "user_accessfolder1_nur_lesen",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "user_accessfoldername2",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "user_accessfolder2_nur_lesen",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "nas_folder_ftp_awd",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "nas_folder_ftps_awd",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "nas_folder_ftp_inet",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "option",
+        "varid": "nas_folder_ftps_inet",
+        "varvalue": "***"
+      }
+    ]
   }
 ]

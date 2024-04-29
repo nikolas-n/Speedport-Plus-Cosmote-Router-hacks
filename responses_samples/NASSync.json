@@ -37,96 +37,96 @@
   {
     "vartype": "template",
     "varid": "addnassync",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_job_active",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_job_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_folder1",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_folder2",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_select_when",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_mon",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_tue",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_wed",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_thu",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_fri",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_sat",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "sync_action_sun",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_action_time",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_status",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_last_status",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_timestamp",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "sync_reason",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   }

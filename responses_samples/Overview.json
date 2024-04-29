@@ -527,368 +527,460 @@
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addmdevice",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_connected",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv4",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ula",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "mdevice_ipv6",
-    "varvalue": "***"
+        "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmdevice",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connected",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ula",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+        "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addmdevice",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_name",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_mac",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_type",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_connected",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv4",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ula",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "mdevice_ipv6",
+        "varvalue": "***"
       }
     ]
   }

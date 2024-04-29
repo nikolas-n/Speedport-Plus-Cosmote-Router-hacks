@@ -112,32 +112,32 @@
   {
     "vartype": "template",
     "varid": "addpredeflist",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "predef_url",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "addpredeflist",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "predef_url",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   }

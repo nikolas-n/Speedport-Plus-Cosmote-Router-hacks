@@ -147,124 +147,155 @@
   {
     "vartype": "template",
     "varid": "wirelessclient",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ssid",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ip",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_rssi",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "wirelessclient",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ssid",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ip",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_rssi",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "wirelessclient",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ssid",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ip",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_rssi",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "wirelessclient",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ssid",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_ip",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_mac",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "h_w_client_rssi",
-    "varvalue": "***"
+        "varvalue": "***"
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "wirelessclient",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "h_w_client_ssid",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "h_w_client_ip",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "h_w_client_mac",
+        "varvalue": "***"
+      },
+      {
+        "vartype": "value",
+        "varid": "h_w_client_rssi",
+        "varvalue": "***"
       }
     ]
   },

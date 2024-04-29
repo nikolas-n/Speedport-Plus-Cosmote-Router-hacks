@@ -47,92 +47,92 @@
   {
     "vartype": "template",
     "varid": "addphonenumber",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "sid",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "phone_number",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "phone_number_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "reject_on_busy",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "line",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "clir",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },
   {
     "vartype": "template",
     "varid": "phone_plugs",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "plug_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_use_out_of_order_signaling",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_send_number",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_dial_zero",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_outgoing",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_sbox",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "compound",
         "varid": "sid",
-    "varvalue": "***"
+        "varvalue": "***",
         "compounds": [
           {
             "vartype": "option",
             "varid": "ring_incoming",
-    "varvalue": "***"
+            "varvalue": "***"
           }
         ]
       }
@@ -141,56 +141,56 @@
   {
     "vartype": "template",
     "varid": "phone_plugs",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "plug_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_use_out_of_order_signaling",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_send_number",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_dial_zero",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_outgoing",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_type",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "plug_sbox",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "compound",
         "varid": "sid",
-    "varvalue": "***"
+        "varvalue": "***",
         "compounds": [
           {
             "vartype": "option",
             "varid": "ring_incoming",
-    "varvalue": "***"
+            "varvalue": "***"
           }
         ]
       }

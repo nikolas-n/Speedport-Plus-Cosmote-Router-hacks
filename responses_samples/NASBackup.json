@@ -37,121 +37,121 @@
   {
     "vartype": "template",
     "varid": "addnasbackup",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_job_active",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_job_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_folder1",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_folder2",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_select_when",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_mon",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_tue",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_wed",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_thu",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_fri",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_sat",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_action_sun",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_action_time",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "option",
         "varid": "backup_versioning",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_status",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_last_status",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_timestamp",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "backup_reason",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "nas_backup_entry_id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "nas_backup_entry_name",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "nas_device_id",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "nas_device_name",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   }

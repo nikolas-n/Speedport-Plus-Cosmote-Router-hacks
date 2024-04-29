@@ -112,16 +112,16 @@
   {
     "vartype": "template",
     "varid": "wlan_random_pin",
-    "varvalue": "***"
+    "varvalue": [
       {
         "vartype": "value",
         "varid": "random_wps_pin",
-    "varvalue": "***"
+        "varvalue": "***"
       },
       {
         "vartype": "value",
         "varid": "random_flag",
-    "varvalue": "***"
+        "varvalue": "***"
       }
     ]
   },

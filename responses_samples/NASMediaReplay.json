@@ -43,36 +43,5 @@
     "vartype": "status",
     "varid": "status",
     "varvalue": "***"
-  },
-  {
-    "vartype": "template",
-    "varid": "addnasmediareplay",
-    "varvalue": "***"
-      {
-        "vartype": "value",
-        "varid": "id",
-    "varvalue": "***"
-      },
-      {
-        "vartype": "option",
-        "varid": "mediareplay_active",
-    "varvalue": "***"
-      },
-      {
-        "vartype": "value",
-        "varid": "mediareplay_name",
-    "varvalue": "***"
-      },
-      {
-        "vartype": "value",
-        "varid": "mediareplay_folder",
-    "varvalue": "***"
-      },
-      {
-        "vartype": "value",
-        "varid": "mediareplay_status",
-    "varvalue": "***"
-      }
-    ]
   }
 ]

@@ -5,6 +5,19 @@ import os
 import urllib3
 import json
 
+
+with open('.credentials','r') as f:
+	credentials = f.readlines()
+
+for line in credentials:
+	variable = line.split('=')[0].replace('\'', '').rstrip()
+	value = line.split('=')[1].replace('\'', '').rstrip()
+	if variable == 'USERNAME':
+		username = value
+	if variable == 'PASSWORD':
+		password = value
+
+
 # Suppress loggin about self-signed certificate
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -15,7 +28,7 @@ headers = {'Accept-Language': 'en'}
 session = requests.Session()
 
 # Set username and password
-login_data = {'showpw':'0','username':'**********','password':'********'}
+login_data = {'showpw':'0','username':username,'password':password}
 
 # Login
 session.post('https://192.168.1.1/data/Login.json',data=login_data,headers=headers,verify=False)
